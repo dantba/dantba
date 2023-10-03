@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **dantba/dantba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Quem sou eu
+# Quem sou
 - Desenvolvedor fullstack com mais de três anos de experiência, tenho preferência por atuar no backend. Caso queira mais detalhes sobre minhas experiências profissionais, acesse meu [linkedin](https://www.linkedin.com/in/daniel-tbaraujo/)
 - Engenheiro de Computação formado pela [UNIFEI](https://unifei.edu.br/).
 - Sou natural de Sâo José dos Campos - SP e após rodar pela PB e por MG decidi me reestabelecer na minha cidade de nascimento.
