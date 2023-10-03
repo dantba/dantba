@@ -55,6 +55,3 @@ Here are some ideas to get you started:
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-
-
-- [PLANeT](https://github.com/augustopiatto/PLANeT) - (React - JS, Flutter, Tailwind, Node - TS)
